@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shondas Racer",
+"dataUrl": "racer.data.unityweb",
+"asmCodeUrl": "racer.asm.code.unityweb",
+"asmMemoryUrl": "racer.asm.memory.unityweb",
+"asmFrameworkUrl": "racer.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
